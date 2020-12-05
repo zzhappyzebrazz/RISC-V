@@ -1,0 +1,10 @@
+module mux_A (input [31:0] pc, rs1,
+              input A_sel,
+              output reg [31:0] muxA_out);
+always @(A_sel, pc, rs1) begin
+  if (A_sel)
+    muxA_out= pc;
+  else
+    muxA_out= rs1;
+end
+endmodule

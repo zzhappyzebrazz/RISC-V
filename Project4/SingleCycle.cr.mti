@@ -1,0 +1,281 @@
+C:/Users/Computer/Desktop/RISC-V/Project3/test_branchcomp.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/test_branchcomp.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_branchcomp
+
+Top level modules:
+	test_branchcomp
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/controller.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/controller.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/imm_gen.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/imm_gen.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/muxB.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/muxB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_B
+
+Top level modules:
+	mux_B
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/testbench.v} {1 {vlog -work work -stats=none {D:\Documents\RISC-V architecture\BTL_RISCV\Project4\testbench.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_alu.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_alu
+
+Top level modules:
+	test_alu
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/readmem.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/readmem.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module readmem
+
+Top level modules:
+	readmem
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/READ_IMEM.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/READ_IMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module READ_IMEM
+
+Top level modules:
+	READ_IMEM
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/top.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/top.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cpu_top
+
+Top level modules:
+	cpu_top
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxA.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxA.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_A
+
+Top level modules:
+	mux_A
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/testbench.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/testbench.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/branch_comp.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/branch_comp.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module branch_comp
+
+Top level modules:
+	branch_comp
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxB.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxB.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_B
+
+Top level modules:
+	mux_B
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/controller.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/controller.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/regs.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/regs.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regs
+
+Top level modules:
+	regs
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/muxW.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/muxW.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_W
+
+Top level modules:
+	mux_W
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/READ_IMEM.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/READ_IMEM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module READ_IMEM
+
+Top level modules:
+	READ_IMEM
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/top.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/top.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cpu_top
+
+Top level modules:
+	cpu_top
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/DMEM.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/DMEM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_IMEM.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_IMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_IMEM
+
+Top level modules:
+	test_IMEM
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_add4.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_add4.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pc_add4
+
+Top level modules:
+	pc_add4
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/pc_mux.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/pc_mux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PCmux
+
+Top level modules:
+	PCmux
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/branch_comp.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/branch_comp.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module branch_comp
+
+Top level modules:
+	branch_comp
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/IMEM.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/IMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IMEM
+
+Top level modules:
+	IMEM
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxW.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxW.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_W
+
+Top level modules:
+	mux_W
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/regs.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/regs.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module regs
+
+Top level modules:
+	regs
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/alu.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/alu.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_DMEM.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_DMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test1
+
+Top level modules:
+	test1
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/test_IMEM.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/test_IMEM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_IMEM
+
+Top level modules:
+	test_IMEM
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/pc_add4.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/pc_add4.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pc_add4
+
+Top level modules:
+	pc_add4
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/DMEM.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/DMEM.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DMEM
+
+Top level modules:
+	DMEM
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/imm_gen.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/imm_gen.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module imm_gen
+
+Top level modules:
+	imm_gen
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_mux.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_mux.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PCmux
+
+Top level modules:
+	PCmux
+
+} {} {}} {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_branchcomp.v} {1 {vlog -work work -stats=none {D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_branchcomp.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_branchcomp
+
+Top level modules:
+	test_branchcomp
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/test_alu.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/test_alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test_alu
+
+Top level modules:
+	test_alu
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/test_DMEM.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/test_DMEM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module test1
+
+Top level modules:
+	test1
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/alu.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/pc.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/pc.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/Computer/Desktop/RISC-V/Project3/muxA.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/RISC-V/Project3/muxA.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux_A
+
+Top level modules:
+	mux_A
+
+} {} {}}

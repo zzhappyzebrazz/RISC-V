@@ -1,0 +1,26 @@
+module DMEM (input clk, rst_n,
+             input [31:0] dataW, Addr,
+             input MemRW,               //0: read, 1: write
+             output [31:0] dataR);
+reg [31:0] DMEMi [0:256];
+
+assign dataR= DMEMi[Addr];
+
+always @(posedge clk) begin
+  if (!rst_n) begin
+    //dataR <= 32'hxxxxxxxx;
+    DMEMi[Addr] <= 32'hxxxxxxxx;
+  end
+  else begin
+    if (MemRW==1'b1) begin
+      DMEMi[Addr] <= dataW;
+      //dataR <= 32'bxxxxxxxx;
+    end
+    else begin
+      DMEMi[Addr] <=  DMEMi[Addr];
+      //dataR <= DMEMi[Addr];
+    end
+  end
+end
+endmodule
+    

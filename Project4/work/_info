@@ -1,0 +1,460 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Computer/Desktop/RISC-V/Project2
+valu
+Z0 !s110 1607190904
+!i10b 1
+!s100 5ON]SI1m4HUVYMbmXMlm_3
+IES]:161RHQa2oJT00FL8V2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/Documents/RISC-V architecture/BTL_RISCV/Project4
+w1607189237
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/alu.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/alu.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1607190904.000000
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/alu.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vbranch_comp
+R0
+!i10b 1
+!s100 zQUVDEmSb^J:Ze9YXD8kF3
+I::JLeBmN_S4jA2oEPWin:2
+R1
+R2
+w1607190560
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/branch_comp.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/branch_comp.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/branch_comp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/branch_comp.v|
+!s101 -O0
+!i113 1
+R5
+vcontroller
+R0
+!i10b 1
+!s100 XY0k?e2HZzK24k1c7GPFf3
+I0;>3?Y=eF7IC_=O=B`bB80
+R1
+R2
+w1607190616
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/controller.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/controller.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/controller.v|
+!s101 -O0
+!i113 1
+R5
+vcpu_top
+R0
+!i10b 1
+!s100 8LhZ`fcJn8RCQNmVoG]AC2
+I>b`P<gEIL?VTCn?KeZgSL3
+R1
+R2
+w1607189740
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/top.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1607190903.000000
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/top.v|
+!s101 -O0
+!i113 1
+R5
+vDMEM
+R0
+!i10b 1
+!s100 33JGTJR`g5XK<kUZ`]Pg03
+I<bizUJE_[l60]Y7f^1:d12
+R1
+R2
+w1607190691
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/DMEM.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/DMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/DMEM.v|
+!s101 -O0
+!i113 1
+R5
+n@d@m@e@m
+vIMEM
+R0
+!i10b 1
+!s100 e_C4K@jPR85@]K7JlamV73
+I2M<P6QNKX69T1X>GC0leP2
+R1
+R2
+w1607190724
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/IMEM.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/IMEM.v
+L0 6
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/IMEM.v|
+!s101 -O0
+!i113 1
+R5
+n@i@m@e@m
+vimm_gen
+R0
+!i10b 1
+!s100 h7W5X]>2WY4;nGE40nLlD3
+Inbgf8Ca8F7<5ZB]H=h^hL0
+R1
+R2
+w1607190802
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/imm_gen.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/imm_gen.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/imm_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/imm_gen.v|
+!s101 -O0
+!i113 1
+R5
+vmux_A
+R0
+!i10b 1
+!s100 LW@R[n8k9a[;3iEiQVQ_m2
+IP5gmiGX_71?;EkYZ1TP9X2
+R1
+R2
+w1607190837
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxA.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxA.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxA.v|
+!s101 -O0
+!i113 1
+R5
+nmux_@a
+vmux_B
+Z6 !s110 1607190905
+!i10b 1
+!s100 eC0TK7LBF<B7RGIb]4EIf1
+Ic78:n7;U?lQjB:FRzQIe_3
+R1
+R2
+w1607189795
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxB.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxB.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1607190905.000000
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxB.v|
+!s101 -O0
+!i113 1
+R5
+nmux_@b
+vmux_W
+R6
+!i10b 1
+!s100 _nGc227z]TAOkbAIolEB<0
+IkJzJP<C?`URCzh@DodnBY1
+R1
+R2
+w1607190860
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxW.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxW.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxW.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/muxW.v|
+!s101 -O0
+!i113 1
+R5
+nmux_@w
+vPC
+R6
+!i10b 1
+!s100 DAK37Kfj9jPQF=PC78LKJ3
+I8_61T5ZFE<e=F:IODkdN>2
+R1
+R2
+w1607190822
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc.v|
+!s101 -O0
+!i113 1
+R5
+n@p@c
+vpc_add4
+R6
+!i10b 1
+!s100 OkmhT`7HRBBB?FKYgY9Vl1
+I=H2b9>aADKM8=[SI95dSW2
+R1
+R2
+w1591990824
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_add4.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_add4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_add4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_add4.v|
+!s101 -O0
+!i113 1
+R5
+vPCmux
+R6
+!i10b 1
+!s100 8cJ4JYjSSniW3f@O?A=@40
+IJ0CzR73YCAzRkUz5Q=>9l2
+R1
+R2
+w1607190773
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_mux.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/pc_mux.v|
+!s101 -O0
+!i113 1
+R5
+n@p@cmux
+vREAD_IMEM
+R6
+!i10b 1
+!s100 7]:AGZhN^3:iGN4hodI]L1
+I;`]D4Y?RPjnY3G^[_olI:3
+R1
+R2
+w1607190592
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/READ_IMEM.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/READ_IMEM.v
+L0 3
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/READ_IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/READ_IMEM.v|
+!s101 -O0
+!i113 1
+R5
+n@r@e@a@d_@i@m@e@m
+vreadmem
+R6
+!i10b 1
+!s100 b[Nfnl6R0diob:Va3Hka=0
+IGQ2iVA65h8cWLlff=]cEG3
+R1
+R2
+w1607190887
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/readmem.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/readmem.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/readmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/readmem.v|
+!s101 -O0
+!i113 1
+R5
+vregs
+R6
+!i10b 1
+!s100 >YiTSiBi<7k:R1GDTa>Z73
+IHi0J:7li::<EAz`zAF:?03
+R1
+R2
+w1607190146
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/regs.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/regs.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/regs.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/regs.v|
+!s101 -O0
+!i113 1
+R5
+vtest1
+Z8 !s110 1607190906
+!i10b 1
+!s100 h6PdfeoYS4SWii;6:UXO<0
+IJee@7zB=Vc3?;V6T7U]7a2
+R1
+R2
+w1606847884
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_DMEM.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_DMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1607190906.000000
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_DMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_DMEM.v|
+!s101 -O0
+!i113 1
+R5
+vtest_alu
+R8
+!i10b 1
+!s100 37=hjbGm6zHX9i0m<kaoV3
+I^zz?VQ4<S>RMW2giTdjfb3
+R1
+R2
+w1591990820
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_alu.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_alu.v|
+!s101 -O0
+!i113 1
+R5
+vtest_branchcomp
+R8
+!i10b 1
+!s100 <FnXKG`m`[dLG70Hg7:BU3
+I]zGkBAkHTd?6j49TgYUa53
+R1
+R2
+w1591990822
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_branchcomp.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_branchcomp.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_branchcomp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_branchcomp.v|
+!s101 -O0
+!i113 1
+R5
+vtest_IMEM
+R8
+!i10b 1
+!s100 fSlW0neL1hIcb<8?j6Ghg1
+I;h0Ej92<mFz0c7NY<APjE2
+R1
+R2
+w1606192178
+8D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_IMEM.v
+FD:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_IMEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_IMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Documents/RISC-V architecture/BTL_RISCV/Project4/test_IMEM.v|
+!s101 -O0
+!i113 1
+R5
+ntest_@i@m@e@m
+vtestbench
+R8
+!i10b 1
+!s100 Dj4_L45il0m3zUhbQik]Q1
+I1oz6njj4Q:<XTY5L^PbA@1
+R1
+R2
+w1607010204
+8D:\Documents\RISC-V architecture\BTL_RISCV\Project4\testbench.v
+FD:\Documents\RISC-V architecture\BTL_RISCV\Project4\testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 D:\Documents\RISC-V architecture\BTL_RISCV\Project4\testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Documents\RISC-V architecture\BTL_RISCV\Project4\testbench.v|
+!s101 -O0
+!i113 1
+R5

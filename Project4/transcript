@@ -1,0 +1,43 @@
+# Compile of alu.v was successful.
+# Compile of top.v failed with 1 errors.
+# Compile of top.v failed with 1 errors.
+# Compile of top.v was successful.
+# Compile of muxB.v was successful.
+# Compile of regs.v failed with 2 errors.
+# Compile of regs.v failed with 1 errors.
+# Compile of regs.v was successful.
+# Compile of branch_comp.v failed with 3 errors.
+# Compile of branch_comp.v failed with 3 errors.
+# Compile of branch_comp.v failed with 3 errors.
+# Compile of branch_comp.v was successful.
+# Compile of READ_IMEM.v was successful.
+# Compile of controller.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of pc_mux.v was successful.
+# Compile of imm_gen.v was successful.
+# Compile of pc.v was successful.
+# Compile of muxA.v was successful.
+# Compile of muxW.v was successful.
+# Compile of top.v was successful.
+# Compile of alu.v was successful.
+# Compile of branch_comp.v was successful.
+# Compile of controller.v was successful.
+# Compile of DMEM.v was successful.
+# Compile of IMEM.v was successful.
+# Compile of imm_gen.v was successful.
+# Compile of muxA.v was successful.
+# Compile of muxB.v was successful.
+# Compile of muxW.v was successful.
+# Compile of pc.v was successful.
+# Compile of pc_add4.v was successful.
+# Compile of pc_mux.v was successful.
+# Compile of READ_IMEM.v was successful.
+# Compile of readmem.v was successful.
+# Compile of regs.v was successful.
+# Compile of test_alu.v was successful.
+# Compile of test_branchcomp.v was successful.
+# Compile of test_DMEM.v was successful.
+# Compile of test_IMEM.v was successful.
+# Compile of testbench.v was successful.
+# 21 compiles, 0 failed with no errors.
